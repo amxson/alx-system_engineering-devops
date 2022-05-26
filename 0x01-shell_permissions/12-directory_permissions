@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir dir_holberton -m=751
+echo mkdir my_dir -m=751 >> 12-directory_permissions
